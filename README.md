@@ -1,5 +1,5 @@
 # Bugbountyhub Legal Documents
 
-All rights reserved | © 2021 Bug Bounty Hub AG
+All rights reserved | © 2021 Go Bug Free AG
 
 https://bugbountyhub.com/
